@@ -1,0 +1,31 @@
+{
+  "name": "sites",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markiam11/travel-sites.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markiam11/travel-sites/issues"
+  },
+  "homepage": "https://github.com/markiam11/travel-sites#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.1.2",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-watch": "^4.3.11",
+    "postcss-nested": "^2.1.0",
+    "postcss-simple-vars": "^4.0.0"
+  }
+}
